@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso do hover</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <h1>Testando o hover com diferentes aplicações práticas</h1>
+    <h2>Uso do hover para links:</h2>
+    <p>Acesse o Youtube através deste link: <a href="https://www.youtube.com/">Youtube</a><br></p>
+    <p>Acesse o Google através deste link: <a href="https://www.google.com/?hl=pt_BR&zx=1757953048974&no_sw_cr=1">Google</a><br></p>
+    <p>Acesse o Facebook através deste link: <a href="https://www.facebook.com/?locale=pt_BR">Facebook</a><br></p>
+    <br>
+    <h2>Uso do hover para alterar a cor de fundo do parágrafo:</h2>
+    <div class="fundo">
+    <p>O mais popular dos gadgets assopra as velhinhas em  14 de fevereiro (1946). Há exatos 65 anos — data em que escrevo este artigo — os pesquisadores norte-americanos John Eckert e John Mauchly, da Electronic Control Company, revelavam ao mundo o primeiro computador eletrônico digital de larga escala, também conhecido como Electronic Numerical Integrator And Computer (que em bom português quer dizer Computador e Integrador Numérico Eletrônico) ou apenas ENIAC para os mais íntimos. Desenvolvido a pedido do exército dos Estados Unidos para seu laboratório de pesquisa balística, o ENIAC era um monstrengo de 30 toneladas de peso que ocupava uma área de 180 m² de área construída. Sua produção custou nada menos do que US$ 500 mil na época, o que hoje representaria aproximadamente US$ 6 milhões e a máquina contava com um hardware equipado com 70 mil resístores e 18 mil válvulas de vácuo que em funcionamento consumiam vorazmente 200 mil watts de energia.</p>
+    </div>
+    <br>
+    <h2>Uso do hover para dobrar a largura do container:</h2>
+    <div class="container"></div>
+    <br>
+    <h2>Uso do hover para dar zoom na imagem:</h2>
+    <br>
+    <br>
+    <div class="zoom"></div>
+</body>
+</html>
